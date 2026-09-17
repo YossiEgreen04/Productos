@@ -29,12 +29,12 @@ Desarrollar una aplicación multiplataforma para el seguimiento y control, para 
 
 #FUNCIONALIDAD
 
--[ ] CRUD de productos
--[ ] CRUD de proveedores
--[ ] CRUD de usuarios
--[ ] Reportes
--[ ] Dashboard Admin
--[ ] Stock de productos
+- [ ] CRUD de productos
+- [ ] CRUD de proveedores
+- [ ] CRUD de usuarios
+- [ ] Reportes
+- [ ] Dashboard Admin
+- [ ] Stock de productos
 
 #FECHAS
 + FECHA INICIO: 16 SEPTIEMBRE 2026
